@@ -7,7 +7,5 @@ Comment=A simple GUI for 'reflector'
 Comment[de]=Eine simple GUI zum Mirror refreshen
 Exec=/usr/local/bin/arcolinux-reflector-simple
 Icon=reload
-# StartupNotify=false
-# Terminal=False
 Hidden=false
 Categories=GNOME;GTK;Settings;Security;X-GNOME-Settings-Panel;X-GNOME-SystemSettings;X-Unity-Settings-Panel;X-XFCE-SettingsDialog;X-XFCE-SystemSettings;
